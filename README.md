@@ -12,7 +12,6 @@
 🎓 Computer Science Engineering Student <br>
 🏫 JSS Science and Technology University, Mysuru <br>
 💻 Passionate about Web Development <br>
-🌱 Currently learning Full Stack Development <br>
 🚀 Interested in AI, Databases, and Software Development <br>
 ✨ Always eager to explore new technologies and build projects
 </p>
