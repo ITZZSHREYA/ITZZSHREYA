@@ -1,5 +1,3 @@
-<!-- Animated Intro -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Shreya+Jain;Computer+Science+Student;Aspiring+Web+Developer;Always+Learning+New+Things&font=Fira+Code&center=true&width=700&height=50&color=C154C1&vCenter=true&pause=1000&size=30" />
 </p>
@@ -27,10 +25,10 @@
   <a href="mailto:shreyajain182005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -43,41 +41,19 @@
 <img src="https://skillicons.dev/icons?i=c,python,java,html,css,mysql,git,github,linux&theme=dark&perline=5" />
 </p>
 
-### Tools & Technologies
-- Jira
-- Jenkins
-- Postman
-- GitHub
-- Ubuntu Linux
-- Windows
-
 ---
 
 ## 🚀 Projects
 
-### 🛒 Cre8ify – E-Commerce Application
-- Developed an online marketplace for handmade products.
-- Implemented product listings and reviews.
-- Designed user-friendly navigation.
-
-### 🏋️ FitClub – Health & Fitness Application
-- Built a fitness app to track:
-  - Sleep
-  - Hydration
-  - Calorie intake
-- Provided personalized fitness insights.
-
 ### 🏥 MediTrack – DBMS Project
-- Designed a database system for patient records.
-- Implemented efficient SQL-based storage and retrieval.
+- Designed a database system for managing patient and medical records.
+- Implemented efficient data storage and retrieval using SQL.
+- Focused on organized patient information management.
 
 ### 💳 Feature Payment Application
-- Prepared documentation for a secure digital payment system.
-- Documented:
-  - User Authentication
-  - Card Management
-  - Transaction Flow
-  - Notifications
+- Prepared detailed documentation for a secure digital payment application.
+- Documented user authentication, card management, transaction flow, and notifications.
+- Followed software engineering principles during documentation.
 
 ---
 
@@ -87,52 +63,22 @@
 
 🏆 HTML5 – Infosys Springboard
 
-🏆 National Conference Participation:
-AI Powered Robotics in Agriculture
+🏆 National Conference Participation – AI Powered Robotics in Agriculture
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180"/>
-</p>
+**B.E. in Computer Science Engineering**  
+JSS Science and Technology University, Mysuru  
+CGPA: 8.17
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+**PUC**  
+JSS PU College, Mysuru  
+CGPA: 9.89
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+✨ "Learning, Building, and Growing Every Day." ✨
 </p>
