@@ -64,20 +64,3 @@
 
 🏆 National Conference Participation – AI Powered Robotics in Agriculture
 
----
-
-## 🎓 Education
-
-**B.E. in Computer Science Engineering**  
-JSS Science and Technology University, Mysuru  
-CGPA: 8.17
-
-**PUC**  
-JSS PU College, Mysuru  
-CGPA: 9.89
-
----
-
-<p align="center">
-✨ "Learning, Building, and Growing Every Day." ✨
-</p>
